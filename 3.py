@@ -189,7 +189,7 @@ join( )
 s = "apple,banana,grape"
 
 print(s.splitlines())  # ["apple", "banana", "grape"]
-print(",".join(["apple", "banana", "grape"]))  # "apple,banana,grape"
+print(",".join(["apple", "banana", "grape"]))  # "apple,banana,grape" # 문자열 반환
 
 
 # 문자열 정렬, 채우기 함수 예시
