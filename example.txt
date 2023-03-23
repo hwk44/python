@@ -1,0 +1,14 @@
+dddddddddd
+dddddddddddddddd1
+ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ2
+ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ3
+ㅇㅇㅇㅇㅇㅇㅇㅇㅇ4
+ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ5Hello, world!
+This is an example file.
+We will use it to demonstrate file writing in Python.
+We can write multiple lines at once.
+Hello, world!
+This is an example file.
+We will use it to demonstrate file writing in Python.
+We can write multiple lines at once.
+Hello, world!
