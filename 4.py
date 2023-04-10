@@ -324,8 +324,7 @@ print(list(set(list1) & set(list2)))              # {3}
 '''
 # 함수 정의
 def add_numbers(a, b):
-    result = a + b
-    return result
+    return a+b
 
 # 함수 호출
 result = add_numbers(3, 5)
